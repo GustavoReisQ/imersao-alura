@@ -40,6 +40,7 @@ public class Application {
             geradora.cria(inputStream, nomeArquivo);
 
             System.out.println(filme.get("title"));
+
         }
     }
 }
